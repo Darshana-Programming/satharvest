@@ -1,0 +1,24 @@
+removed_feature,kept_feature,feature_correlation,removed_yield_correlation,kept_yield_correlation,reason
+dry_days,rainy_days,-1.0,0.068156614681307,-0.068156614681307,Highly correlated feature; kept feature with stronger absolute correlation with yield
+late_dry_days,late_rainy_days,-0.9999999999999999,0.2121259575496284,-0.21212595754962862,Highly correlated feature; kept feature with stronger absolute correlation with yield
+early_dry_days,early_rainy_days,-0.9999999999999998,0.04527526741905869,-0.04527526741905873,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_dry_days,mid_rainy_days,-0.9999999999999998,-0.111084444176546,0.11108444417654607,Highly correlated feature; kept feature with stronger absolute correlation with yield
+avg_wind,early_avg_wind,0.9806451641682611,0.2871796730216932,0.3332829117535299,Highly correlated feature; kept feature with stronger absolute correlation with yield
+late_avg_wind,avg_wind,0.9600155695354279,0.18828082851678143,0.2871796730216932,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_avg_wind,early_avg_wind,0.9546770063244259,0.30217709184583086,0.3332829117535299,Highly correlated feature; kept feature with stronger absolute correlation with yield
+hot_days_30,hot_days_32,0.9467116783945088,-0.14240290409986675,-0.19558333906665354,Highly correlated feature; kept feature with stronger absolute correlation with yield
+early_avg_temp,early_avg_temp_max,0.9466422460306737,0.012874367931408634,0.02431458617267545,Highly correlated feature; kept feature with stronger absolute correlation with yield
+late_hot_days_32,late_hot_days_30,0.9177795493563005,-0.11772531708055721,-0.1256596457121598,Highly correlated feature; kept feature with stronger absolute correlation with yield
+hot_days_32,hot_days_35,0.9157155119700724,-0.19558333906665354,-0.25582426284930726,Highly correlated feature; kept feature with stronger absolute correlation with yield
+hot_days_35,mid_hot_days_35,0.912981130360172,-0.25582426284930726,-0.32270136876003774,Highly correlated feature; kept feature with stronger absolute correlation with yield
+avg_humidity,mid_avg_humidity,0.8963963471426004,-0.03846580894771656,0.10908260304793944,Highly correlated feature; kept feature with stronger absolute correlation with yield
+avg_temp_max,hot_days_30,0.8961455952779285,-0.12265109422658732,-0.14240290409986675,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_hot_days_30,mid_avg_temp,0.8859731766474614,-0.10566080708352125,-0.11285753900423677,Highly correlated feature; kept feature with stronger absolute correlation with yield
+late_avg_temp_min,late_avg_temp,0.8709938898345563,-0.12972169629469094,-0.13069205967217026,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_hot_days_32,hot_days_35,0.8679501564799108,-0.2063050795349152,-0.25582426284930726,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_avg_temp_max,hot_days_32,0.8666088782992459,-0.18065613123718785,-0.19558333906665354,Highly correlated feature; kept feature with stronger absolute correlation with yield
+longest_dry_spell,late_longest_dry_spell,0.8665516160445359,0.19843683041114962,0.274271746685993,Highly correlated feature; kept feature with stronger absolute correlation with yield
+avg_temp,avg_temp_max,0.8653934839932437,-0.08751856576184384,-0.12265109422658732,Highly correlated feature; kept feature with stronger absolute correlation with yield
+mid_avg_humidity,mid_hot_days_35,-0.8631904614513372,0.10908260304793944,-0.32270136876003774,Highly correlated feature; kept feature with stronger absolute correlation with yield
+early_avg_temp_min,avg_temp_min,0.8574772114715271,-0.002292302591489955,-0.06006461742608264,Highly correlated feature; kept feature with stronger absolute correlation with yield
+late_avg_temp_max,late_avg_temp,0.8501476169151112,-0.12272574739808884,-0.13069205967217026,Highly correlated feature; kept feature with stronger absolute correlation with yield

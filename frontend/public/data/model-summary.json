@@ -1,0 +1,80 @@
+[
+  {
+    "Feature_Set":"Basic",
+    "Model":"Gradient Boosting",
+    "Mean_MAE":26.2055256193,
+    "Mean_RMSE":31.3992845535,
+    "Mean_R2":-0.447164073,
+    "Std_MAE":4.3607620536,
+    "Std_RMSE":4.1585935966,
+    "Std_R2":0.6014804291,
+    "Median_MAE":26.5061690366,
+    "Median_RMSE":32.5865963466,
+    "Median_R2":-0.1617830131
+  },
+  {
+    "Feature_Set":"Basic",
+    "Model":"Linear Regression",
+    "Mean_MAE":29.1503660466,
+    "Mean_RMSE":34.183936702,
+    "Mean_R2":-0.770638894,
+    "Std_MAE":7.5163678209,
+    "Std_RMSE":7.3058912163,
+    "Std_R2":1.0387742708,
+    "Median_MAE":29.4473769728,
+    "Median_RMSE":35.8282208132,
+    "Median_R2":-0.3147930437
+  },
+  {
+    "Feature_Set":"Basic",
+    "Model":"Random Forest",
+    "Mean_MAE":26.8090316774,
+    "Mean_RMSE":32.0416043919,
+    "Mean_R2":-0.5052533197,
+    "Std_MAE":4.3008283256,
+    "Std_RMSE":4.0037381156,
+    "Std_R2":0.6025757027,
+    "Median_MAE":26.7148394785,
+    "Median_RMSE":32.3298450899,
+    "Median_R2":-0.2538048083
+  },
+  {
+    "Feature_Set":"Enhanced",
+    "Model":"Gradient Boosting",
+    "Mean_MAE":21.9420111034,
+    "Mean_RMSE":26.9526842512,
+    "Mean_R2":-0.0734672281,
+    "Std_MAE":4.0471081408,
+    "Std_RMSE":3.8020643415,
+    "Std_R2":0.5077995116,
+    "Median_MAE":21.1473724922,
+    "Median_RMSE":26.4388448947,
+    "Median_R2":0.1220950485
+  },
+  {
+    "Feature_Set":"Enhanced",
+    "Model":"Linear Regression",
+    "Mean_MAE":27.9814380666,
+    "Mean_RMSE":32.6697960985,
+    "Mean_R2":-0.6261028798,
+    "Std_MAE":9.2486531848,
+    "Std_RMSE":9.3936928449,
+    "Std_R2":1.0139497043,
+    "Median_MAE":24.5222221336,
+    "Median_RMSE":30.4823513291,
+    "Median_R2":-0.2609622218
+  },
+  {
+    "Feature_Set":"Enhanced",
+    "Model":"Random Forest",
+    "Mean_MAE":22.5744563082,
+    "Mean_RMSE":27.4102701419,
+    "Mean_R2":-0.0869443852,
+    "Std_MAE":2.7794363889,
+    "Std_RMSE":2.248463361,
+    "Std_R2":0.3671706667,
+    "Median_MAE":22.2827633903,
+    "Median_RMSE":26.5834447439,
+    "Median_R2":0.0186013395
+  }
+]
