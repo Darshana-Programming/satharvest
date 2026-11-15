@@ -1,0 +1,4088 @@
+[
+  {
+    "Year":2025,
+    "County":"BOONE",
+    "Value":197.6,
+    "CV (%)":3.3
+  },
+  {
+    "Year":2025,
+    "County":"MILLER",
+    "Value":123.0,
+    "CV (%)":4.4
+  },
+  {
+    "Year":2025,
+    "County":"OSAGE",
+    "Value":176.2,
+    "CV (%)":7.5
+  },
+  {
+    "Year":2025,
+    "County":"PETTIS",
+    "Value":189.1,
+    "CV (%)":3.9
+  },
+  {
+    "Year":2025,
+    "County":"SALINE",
+    "Value":216.7,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2025,
+    "County":"FRANKLIN",
+    "Value":157.9,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2025,
+    "County":"GASCONADE",
+    "Value":112.4,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2025,
+    "County":"LINCOLN",
+    "Value":176.1,
+    "CV (%)":4.0
+  },
+  {
+    "Year":2025,
+    "County":"MONTGOMERY",
+    "Value":169.9,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2025,
+    "County":"STE GENEVIEVE",
+    "Value":176.8,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2025,
+    "County":"WARREN",
+    "Value":162.4,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2025,
+    "County":"CARROLL",
+    "Value":197.6,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2025,
+    "County":"CHARITON",
+    "Value":208.9,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2025,
+    "County":"LIVINGSTON",
+    "Value":198.4,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2025,
+    "County":"RANDOLPH",
+    "Value":199.2,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2025,
+    "County":"SULLIVAN",
+    "Value":169.0,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2025,
+    "County":"AUDRAIN",
+    "Value":183.0,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2025,
+    "County":"CLARK",
+    "Value":205.5,
+    "CV (%)":1.6
+  },
+  {
+    "Year":2025,
+    "County":"LEWIS",
+    "Value":192.7,
+    "CV (%)":1.6
+  },
+  {
+    "Year":2025,
+    "County":"MARION",
+    "Value":190.4,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2025,
+    "County":"PIKE",
+    "Value":182.6,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2025,
+    "County":"RALLS",
+    "Value":200.1,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2025,
+    "County":"SHELBY",
+    "Value":209.8,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2025,
+    "County":"ATCHISON",
+    "Value":192.1,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2025,
+    "County":"CALDWELL",
+    "Value":177.7,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2025,
+    "County":"CLINTON",
+    "Value":185.1,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2025,
+    "County":"HARRISON",
+    "Value":162.1,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2025,
+    "County":"PLATTE",
+    "Value":185.1,
+    "CV (%)":5.1
+  },
+  {
+    "Year":2025,
+    "County":"RAY",
+    "Value":185.7,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2025,
+    "County":"WORTH",
+    "Value":175.4,
+    "CV (%)":5.0
+  },
+  {
+    "Year":2025,
+    "County":"HOWELL",
+    "Value":142.5,
+    "CV (%)":11.3
+  },
+  {
+    "Year":2025,
+    "County":"CAPE GIRARDEAU",
+    "Value":187.0,
+    "CV (%)":7.6
+  },
+  {
+    "Year":2025,
+    "County":"DUNKLIN",
+    "Value":162.0,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2025,
+    "County":"MISSISSIPPI",
+    "Value":189.9,
+    "CV (%)":4.5
+  },
+  {
+    "Year":2025,
+    "County":"NEW MADRID",
+    "Value":196.8,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2025,
+    "County":"STODDARD",
+    "Value":179.2,
+    "CV (%)":7.5
+  },
+  {
+    "Year":2025,
+    "County":"BARTON",
+    "Value":171.2,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2025,
+    "County":"DADE",
+    "Value":150.5,
+    "CV (%)":5.2
+  },
+  {
+    "Year":2025,
+    "County":"JASPER",
+    "Value":151.0,
+    "CV (%)":9.4
+  },
+  {
+    "Year":2025,
+    "County":"NEWTON",
+    "Value":121.6,
+    "CV (%)":8.9
+  },
+  {
+    "Year":2025,
+    "County":"BATES",
+    "Value":170.9,
+    "CV (%)":3.3
+  },
+  {
+    "Year":2025,
+    "County":"CASS",
+    "Value":184.3,
+    "CV (%)":4.0
+  },
+  {
+    "Year":2025,
+    "County":"LAFAYETTE",
+    "Value":219.3,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2025,
+    "County":"ST CLAIR",
+    "Value":162.0,
+    "CV (%)":8.0
+  },
+  {
+    "Year":2024,
+    "County":"BOONE",
+    "Value":193.4,
+    "CV (%)":5.2
+  },
+  {
+    "Year":2024,
+    "County":"CALLAWAY",
+    "Value":189.9,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2024,
+    "County":"COLE",
+    "Value":171.8,
+    "CV (%)":6.5
+  },
+  {
+    "Year":2024,
+    "County":"MARIES",
+    "Value":119.3,
+    "CV (%)":6.8
+  },
+  {
+    "Year":2024,
+    "County":"MILLER",
+    "Value":157.3,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2024,
+    "County":"MONITEAU",
+    "Value":166.8,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2024,
+    "County":"SALINE",
+    "Value":223.1,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2024,
+    "County":"FRANKLIN",
+    "Value":154.5,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2024,
+    "County":"LINCOLN",
+    "Value":178.8,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2024,
+    "County":"PERRY",
+    "Value":168.6,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2024,
+    "County":"ST CHARLES",
+    "Value":184.8,
+    "CV (%)":5.8
+  },
+  {
+    "Year":2024,
+    "County":"WARREN",
+    "Value":144.1,
+    "CV (%)":9.7
+  },
+  {
+    "Year":2024,
+    "County":"CARROLL",
+    "Value":195.0,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2024,
+    "County":"GRUNDY",
+    "Value":162.4,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2024,
+    "County":"LIVINGSTON",
+    "Value":182.3,
+    "CV (%)":5.4
+  },
+  {
+    "Year":2024,
+    "County":"MACON",
+    "Value":193.2,
+    "CV (%)":5.1
+  },
+  {
+    "Year":2024,
+    "County":"PUTNAM",
+    "Value":175.9,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2024,
+    "County":"RANDOLPH",
+    "Value":200.7,
+    "CV (%)":4.7
+  },
+  {
+    "Year":2024,
+    "County":"SULLIVAN",
+    "Value":166.7,
+    "CV (%)":1.9
+  },
+  {
+    "Year":2024,
+    "County":"AUDRAIN",
+    "Value":195.6,
+    "CV (%)":1.6
+  },
+  {
+    "Year":2024,
+    "County":"LEWIS",
+    "Value":181.4,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2024,
+    "County":"MARION",
+    "Value":186.5,
+    "CV (%)":5.6
+  },
+  {
+    "Year":2024,
+    "County":"MONROE",
+    "Value":177.0,
+    "CV (%)":4.4
+  },
+  {
+    "Year":2024,
+    "County":"PIKE",
+    "Value":160.0,
+    "CV (%)":9.2
+  },
+  {
+    "Year":2024,
+    "County":"RALLS",
+    "Value":198.2,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2024,
+    "County":"SCOTLAND",
+    "Value":191.6,
+    "CV (%)":1.5
+  },
+  {
+    "Year":2024,
+    "County":"SHELBY",
+    "Value":195.5,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2024,
+    "County":"ATCHISON",
+    "Value":205.9,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2024,
+    "County":"BUCHANAN",
+    "Value":189.4,
+    "CV (%)":3.9
+  },
+  {
+    "Year":2024,
+    "County":"CALDWELL",
+    "Value":170.1,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2024,
+    "County":"CLAY",
+    "Value":194.9,
+    "CV (%)":5.9
+  },
+  {
+    "Year":2024,
+    "County":"CLINTON",
+    "Value":182.8,
+    "CV (%)":1.3
+  },
+  {
+    "Year":2024,
+    "County":"DAVIESS",
+    "Value":182.4,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2024,
+    "County":"HARRISON",
+    "Value":159.3,
+    "CV (%)":3.9
+  },
+  {
+    "Year":2024,
+    "County":"PLATTE",
+    "Value":175.4,
+    "CV (%)":8.7
+  },
+  {
+    "Year":2024,
+    "County":"WORTH",
+    "Value":186.8,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2024,
+    "County":"CAPE GIRARDEAU",
+    "Value":165.0,
+    "CV (%)":8.0
+  },
+  {
+    "Year":2024,
+    "County":"DUNKLIN",
+    "Value":172.3,
+    "CV (%)":1.6
+  },
+  {
+    "Year":2024,
+    "County":"MISSISSIPPI",
+    "Value":184.1,
+    "CV (%)":1.1
+  },
+  {
+    "Year":2024,
+    "County":"NEW MADRID",
+    "Value":170.6,
+    "CV (%)":6.0
+  },
+  {
+    "Year":2024,
+    "County":"PEMISCOT",
+    "Value":199.0,
+    "CV (%)":2.6
+  },
+  {
+    "Year":2024,
+    "County":"SCOTT",
+    "Value":195.5,
+    "CV (%)":2.6
+  },
+  {
+    "Year":2024,
+    "County":"STODDARD",
+    "Value":181.8,
+    "CV (%)":3.9
+  },
+  {
+    "Year":2024,
+    "County":"BARRY",
+    "Value":98.8,
+    "CV (%)":22.6
+  },
+  {
+    "Year":2024,
+    "County":"BARTON",
+    "Value":176.1,
+    "CV (%)":5.2
+  },
+  {
+    "Year":2024,
+    "County":"DADE",
+    "Value":131.8,
+    "CV (%)":11.0
+  },
+  {
+    "Year":2024,
+    "County":"LAWRENCE",
+    "Value":111.7,
+    "CV (%)":9.0
+  },
+  {
+    "Year":2024,
+    "County":"CASS",
+    "Value":160.9,
+    "CV (%)":8.3
+  },
+  {
+    "Year":2024,
+    "County":"CEDAR",
+    "Value":166.2,
+    "CV (%)":1.9
+  },
+  {
+    "Year":2024,
+    "County":"JACKSON",
+    "Value":154.2,
+    "CV (%)":12.9
+  },
+  {
+    "Year":2024,
+    "County":"JOHNSON",
+    "Value":192.4,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2024,
+    "County":"LAFAYETTE",
+    "Value":212.2,
+    "CV (%)":2.1
+  },
+  {
+    "Year":2024,
+    "County":"ST CLAIR",
+    "Value":154.2,
+    "CV (%)":11.4
+  },
+  {
+    "Year":2023,
+    "County":"BOONE",
+    "Value":122.8,
+    "CV (%)":7.0
+  },
+  {
+    "Year":2023,
+    "County":"CALLAWAY",
+    "Value":141.4,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2023,
+    "County":"COLE",
+    "Value":130.8,
+    "CV (%)":7.9
+  },
+  {
+    "Year":2023,
+    "County":"COOPER",
+    "Value":105.0,
+    "CV (%)":9.0
+  },
+  {
+    "Year":2023,
+    "County":"DALLAS",
+    "Value":124.1,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2023,
+    "County":"HICKORY",
+    "Value":101.2,
+    "CV (%)":8.8
+  },
+  {
+    "Year":2023,
+    "County":"HOWARD",
+    "Value":149.1,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2023,
+    "County":"LACLEDE",
+    "Value":144.0,
+    "CV (%)":8.9
+  },
+  {
+    "Year":2023,
+    "County":"MARIES",
+    "Value":75.9,
+    "CV (%)":11.7
+  },
+  {
+    "Year":2023,
+    "County":"MILLER",
+    "Value":112.1,
+    "CV (%)":7.2
+  },
+  {
+    "Year":2023,
+    "County":"MONITEAU",
+    "Value":113.9,
+    "CV (%)":8.1
+  },
+  {
+    "Year":2023,
+    "County":"OSAGE",
+    "Value":113.3,
+    "CV (%)":11.0
+  },
+  {
+    "Year":2023,
+    "County":"PETTIS",
+    "Value":121.3,
+    "CV (%)":11.2
+  },
+  {
+    "Year":2023,
+    "County":"POLK",
+    "Value":142.3,
+    "CV (%)":10.1
+  },
+  {
+    "Year":2023,
+    "County":"SALINE",
+    "Value":175.7,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2023,
+    "County":"FRANKLIN",
+    "Value":131.5,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2023,
+    "County":"GASCONADE",
+    "Value":113.5,
+    "CV (%)":11.2
+  },
+  {
+    "Year":2023,
+    "County":"JEFFERSON",
+    "Value":118.1,
+    "CV (%)":11.6
+  },
+  {
+    "Year":2023,
+    "County":"LINCOLN",
+    "Value":159.2,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2023,
+    "County":"MONTGOMERY",
+    "Value":139.6,
+    "CV (%)":7.6
+  },
+  {
+    "Year":2023,
+    "County":"PERRY",
+    "Value":133.1,
+    "CV (%)":10.1
+  },
+  {
+    "Year":2023,
+    "County":"ST CHARLES",
+    "Value":165.9,
+    "CV (%)":5.8
+  },
+  {
+    "Year":2023,
+    "County":"ST FRANCOIS",
+    "Value":139.3,
+    "CV (%)":8.0
+  },
+  {
+    "Year":2023,
+    "County":"STE GENEVIEVE",
+    "Value":148.7,
+    "CV (%)":7.4
+  },
+  {
+    "Year":2023,
+    "County":"WARREN",
+    "Value":143.5,
+    "CV (%)":8.9
+  },
+  {
+    "Year":2023,
+    "County":"CARROLL",
+    "Value":154.8,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2023,
+    "County":"GRUNDY",
+    "Value":156.1,
+    "CV (%)":8.1
+  },
+  {
+    "Year":2023,
+    "County":"LINN",
+    "Value":157.2,
+    "CV (%)":7.8
+  },
+  {
+    "Year":2023,
+    "County":"LIVINGSTON",
+    "Value":142.7,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2023,
+    "County":"MACON",
+    "Value":136.8,
+    "CV (%)":8.3
+  },
+  {
+    "Year":2023,
+    "County":"PUTNAM",
+    "Value":144.0,
+    "CV (%)":10.6
+  },
+  {
+    "Year":2023,
+    "County":"RANDOLPH",
+    "Value":105.2,
+    "CV (%)":8.7
+  },
+  {
+    "Year":2023,
+    "County":"SULLIVAN",
+    "Value":147.2,
+    "CV (%)":7.5
+  },
+  {
+    "Year":2023,
+    "County":"AUDRAIN",
+    "Value":115.3,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2023,
+    "County":"CLARK",
+    "Value":166.6,
+    "CV (%)":5.1
+  },
+  {
+    "Year":2023,
+    "County":"KNOX",
+    "Value":130.9,
+    "CV (%)":13.4
+  },
+  {
+    "Year":2023,
+    "County":"LEWIS",
+    "Value":147.7,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2023,
+    "County":"MARION",
+    "Value":124.9,
+    "CV (%)":6.8
+  },
+  {
+    "Year":2023,
+    "County":"MONROE",
+    "Value":82.0,
+    "CV (%)":7.8
+  },
+  {
+    "Year":2023,
+    "County":"RALLS",
+    "Value":97.2,
+    "CV (%)":6.1
+  },
+  {
+    "Year":2023,
+    "County":"SCOTLAND",
+    "Value":167.6,
+    "CV (%)":4.3
+  },
+  {
+    "Year":2023,
+    "County":"SHELBY",
+    "Value":105.4,
+    "CV (%)":7.0
+  },
+  {
+    "Year":2023,
+    "County":"ANDREW",
+    "Value":175.7,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2023,
+    "County":"BUCHANAN",
+    "Value":175.2,
+    "CV (%)":4.2
+  },
+  {
+    "Year":2023,
+    "County":"CALDWELL",
+    "Value":148.7,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2023,
+    "County":"CLAY",
+    "Value":190.6,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2023,
+    "County":"CLINTON",
+    "Value":189.1,
+    "CV (%)":1.4
+  },
+  {
+    "Year":2023,
+    "County":"DAVIESS",
+    "Value":146.0,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2023,
+    "County":"DE KALB",
+    "Value":190.4,
+    "CV (%)":2.1
+  },
+  {
+    "Year":2023,
+    "County":"GENTRY",
+    "Value":160.0,
+    "CV (%)":2.6
+  },
+  {
+    "Year":2023,
+    "County":"HOLT",
+    "Value":219.0,
+    "CV (%)":4.2
+  },
+  {
+    "Year":2023,
+    "County":"PLATTE",
+    "Value":166.7,
+    "CV (%)":7.1
+  },
+  {
+    "Year":2023,
+    "County":"RAY",
+    "Value":173.0,
+    "CV (%)":1.9
+  },
+  {
+    "Year":2023,
+    "County":"WORTH",
+    "Value":170.4,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2023,
+    "County":"BOLLINGER",
+    "Value":119.2,
+    "CV (%)":8.0
+  },
+  {
+    "Year":2023,
+    "County":"WAYNE",
+    "Value":89.9,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2023,
+    "County":"CAPE GIRARDEAU",
+    "Value":140.0,
+    "CV (%)":6.1
+  },
+  {
+    "Year":2023,
+    "County":"DUNKLIN",
+    "Value":164.0,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2023,
+    "County":"MISSISSIPPI",
+    "Value":177.3,
+    "CV (%)":2.0
+  },
+  {
+    "Year":2023,
+    "County":"NEW MADRID",
+    "Value":186.4,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2023,
+    "County":"PEMISCOT",
+    "Value":188.8,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2023,
+    "County":"SCOTT",
+    "Value":178.8,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2023,
+    "County":"STODDARD",
+    "Value":173.4,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2023,
+    "County":"BARTON",
+    "Value":149.0,
+    "CV (%)":5.9
+  },
+  {
+    "Year":2023,
+    "County":"DADE",
+    "Value":95.2,
+    "CV (%)":10.8
+  },
+  {
+    "Year":2023,
+    "County":"JASPER",
+    "Value":141.5,
+    "CV (%)":4.3
+  },
+  {
+    "Year":2023,
+    "County":"LAWRENCE",
+    "Value":88.4,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2023,
+    "County":"BATES",
+    "Value":143.6,
+    "CV (%)":3.3
+  },
+  {
+    "Year":2023,
+    "County":"HENRY",
+    "Value":123.6,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2023,
+    "County":"JACKSON",
+    "Value":186.7,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2023,
+    "County":"JOHNSON",
+    "Value":129.3,
+    "CV (%)":6.5
+  },
+  {
+    "Year":2023,
+    "County":"LAFAYETTE",
+    "Value":176.7,
+    "CV (%)":2.0
+  },
+  {
+    "Year":2023,
+    "County":"ST CLAIR",
+    "Value":79.8,
+    "CV (%)":16.7
+  },
+  {
+    "Year":2023,
+    "County":"VERNON",
+    "Value":104.7,
+    "CV (%)":11.7
+  },
+  {
+    "Year":2022,
+    "County":"BENTON",
+    "Value":153.4,
+    "CV (%)":8.4
+  },
+  {
+    "Year":2022,
+    "County":"CALLAWAY",
+    "Value":157.5,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2022,
+    "County":"COLE",
+    "Value":157.0,
+    "CV (%)":5.8
+  },
+  {
+    "Year":2022,
+    "County":"DALLAS",
+    "Value":105.4,
+    "CV (%)":11.9
+  },
+  {
+    "Year":2022,
+    "County":"HOWARD",
+    "Value":135.1,
+    "CV (%)":7.4
+  },
+  {
+    "Year":2022,
+    "County":"MARIES",
+    "Value":78.8,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2022,
+    "County":"MONITEAU",
+    "Value":114.7,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2022,
+    "County":"MORGAN",
+    "Value":136.2,
+    "CV (%)":3.3
+  },
+  {
+    "Year":2022,
+    "County":"OSAGE",
+    "Value":134.0,
+    "CV (%)":14.0
+  },
+  {
+    "Year":2022,
+    "County":"PETTIS",
+    "Value":134.3,
+    "CV (%)":7.1
+  },
+  {
+    "Year":2022,
+    "County":"POLK",
+    "Value":130.7,
+    "CV (%)":12.0
+  },
+  {
+    "Year":2022,
+    "County":"FRANKLIN",
+    "Value":114.0,
+    "CV (%)":12.6
+  },
+  {
+    "Year":2022,
+    "County":"GASCONADE",
+    "Value":129.2,
+    "CV (%)":8.7
+  },
+  {
+    "Year":2022,
+    "County":"JEFFERSON",
+    "Value":145.9,
+    "CV (%)":11.6
+  },
+  {
+    "Year":2022,
+    "County":"LINCOLN",
+    "Value":125.3,
+    "CV (%)":9.4
+  },
+  {
+    "Year":2022,
+    "County":"MONTGOMERY",
+    "Value":168.4,
+    "CV (%)":7.3
+  },
+  {
+    "Year":2022,
+    "County":"PERRY",
+    "Value":136.0,
+    "CV (%)":7.4
+  },
+  {
+    "Year":2022,
+    "County":"ST CHARLES",
+    "Value":167.8,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2022,
+    "County":"ST FRANCOIS",
+    "Value":163.0,
+    "CV (%)":6.7
+  },
+  {
+    "Year":2022,
+    "County":"STE GENEVIEVE",
+    "Value":168.1,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2022,
+    "County":"WARREN",
+    "Value":174.1,
+    "CV (%)":4.5
+  },
+  {
+    "Year":2022,
+    "County":"ADAIR",
+    "Value":168.1,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2022,
+    "County":"CARROLL",
+    "Value":178.5,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2022,
+    "County":"GRUNDY",
+    "Value":177.8,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2022,
+    "County":"LINN",
+    "Value":165.8,
+    "CV (%)":5.1
+  },
+  {
+    "Year":2022,
+    "County":"LIVINGSTON",
+    "Value":198.4,
+    "CV (%)":5.0
+  },
+  {
+    "Year":2022,
+    "County":"RANDOLPH",
+    "Value":175.2,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2022,
+    "County":"SCHUYLER",
+    "Value":158.1,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2022,
+    "County":"SULLIVAN",
+    "Value":159.9,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2022,
+    "County":"AUDRAIN",
+    "Value":166.2,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2022,
+    "County":"KNOX",
+    "Value":171.3,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2022,
+    "County":"LEWIS",
+    "Value":155.0,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2022,
+    "County":"MARION",
+    "Value":174.8,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2022,
+    "County":"MONROE",
+    "Value":150.4,
+    "CV (%)":12.2
+  },
+  {
+    "Year":2022,
+    "County":"PIKE",
+    "Value":151.9,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2022,
+    "County":"RALLS",
+    "Value":171.0,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2022,
+    "County":"SCOTLAND",
+    "Value":156.2,
+    "CV (%)":7.3
+  },
+  {
+    "Year":2022,
+    "County":"SHELBY",
+    "Value":184.5,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2022,
+    "County":"ATCHISON",
+    "Value":198.1,
+    "CV (%)":2.3
+  },
+  {
+    "Year":2022,
+    "County":"BUCHANAN",
+    "Value":182.0,
+    "CV (%)":4.2
+  },
+  {
+    "Year":2022,
+    "County":"CALDWELL",
+    "Value":162.6,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2022,
+    "County":"CLINTON",
+    "Value":191.0,
+    "CV (%)":4.3
+  },
+  {
+    "Year":2022,
+    "County":"DE KALB",
+    "Value":154.8,
+    "CV (%)":5.2
+  },
+  {
+    "Year":2022,
+    "County":"GENTRY",
+    "Value":167.3,
+    "CV (%)":4.4
+  },
+  {
+    "Year":2022,
+    "County":"PLATTE",
+    "Value":177.5,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2022,
+    "County":"RAY",
+    "Value":173.9,
+    "CV (%)":5.8
+  },
+  {
+    "Year":2022,
+    "County":"WORTH",
+    "Value":160.3,
+    "CV (%)":10.3
+  },
+  {
+    "Year":2022,
+    "County":"DENT",
+    "Value":78.0,
+    "CV (%)":10.0
+  },
+  {
+    "Year":2022,
+    "County":"WEBSTER",
+    "Value":56.1,
+    "CV (%)":10.6
+  },
+  {
+    "Year":2022,
+    "County":"BUTLER",
+    "Value":176.2,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2022,
+    "County":"CAPE GIRARDEAU",
+    "Value":163.2,
+    "CV (%)":9.9
+  },
+  {
+    "Year":2022,
+    "County":"DUNKLIN",
+    "Value":181.5,
+    "CV (%)":1.6
+  },
+  {
+    "Year":2022,
+    "County":"MISSISSIPPI",
+    "Value":182.1,
+    "CV (%)":1.1
+  },
+  {
+    "Year":2022,
+    "County":"NEW MADRID",
+    "Value":170.8,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2022,
+    "County":"PEMISCOT",
+    "Value":176.8,
+    "CV (%)":1.9
+  },
+  {
+    "Year":2022,
+    "County":"SCOTT",
+    "Value":174.0,
+    "CV (%)":5.7
+  },
+  {
+    "Year":2022,
+    "County":"STODDARD",
+    "Value":163.1,
+    "CV (%)":5.6
+  },
+  {
+    "Year":2022,
+    "County":"BARTON",
+    "Value":74.9,
+    "CV (%)":16.7
+  },
+  {
+    "Year":2022,
+    "County":"JASPER",
+    "Value":90.4,
+    "CV (%)":19.2
+  },
+  {
+    "Year":2022,
+    "County":"BATES",
+    "Value":123.0,
+    "CV (%)":9.5
+  },
+  {
+    "Year":2022,
+    "County":"CASS",
+    "Value":111.8,
+    "CV (%)":4.5
+  },
+  {
+    "Year":2022,
+    "County":"HENRY",
+    "Value":128.1,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2022,
+    "County":"JACKSON",
+    "Value":135.6,
+    "CV (%)":13.5
+  },
+  {
+    "Year":2022,
+    "County":"JOHNSON",
+    "Value":117.1,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2022,
+    "County":"LAFAYETTE",
+    "Value":163.2,
+    "CV (%)":3.2
+  },
+  {
+    "Year":2022,
+    "County":"ST CLAIR",
+    "Value":85.0,
+    "CV (%)":16.7
+  },
+  {
+    "Year":2022,
+    "County":"VERNON",
+    "Value":80.3,
+    "CV (%)":14.4
+  },
+  {
+    "Year":2021,
+    "County":"BOONE",
+    "Value":136.3,
+    "CV (%)":6.5
+  },
+  {
+    "Year":2021,
+    "County":"COLE",
+    "Value":129.0,
+    "CV (%)":7.2
+  },
+  {
+    "Year":2021,
+    "County":"COOPER",
+    "Value":132.1,
+    "CV (%)":6.1
+  },
+  {
+    "Year":2021,
+    "County":"DALLAS",
+    "Value":139.3,
+    "CV (%)":4.4
+  },
+  {
+    "Year":2021,
+    "County":"HICKORY",
+    "Value":143.1,
+    "CV (%)":8.7
+  },
+  {
+    "Year":2021,
+    "County":"HOWARD",
+    "Value":129.2,
+    "CV (%)":7.2
+  },
+  {
+    "Year":2021,
+    "County":"LACLEDE",
+    "Value":129.5,
+    "CV (%)":8.9
+  },
+  {
+    "Year":2021,
+    "County":"MARIES",
+    "Value":132.4,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2021,
+    "County":"MILLER",
+    "Value":134.2,
+    "CV (%)":9.8
+  },
+  {
+    "Year":2021,
+    "County":"MONITEAU",
+    "Value":110.8,
+    "CV (%)":8.2
+  },
+  {
+    "Year":2021,
+    "County":"MORGAN",
+    "Value":90.5,
+    "CV (%)":12.5
+  },
+  {
+    "Year":2021,
+    "County":"OSAGE",
+    "Value":137.6,
+    "CV (%)":5.4
+  },
+  {
+    "Year":2021,
+    "County":"PETTIS",
+    "Value":121.4,
+    "CV (%)":6.4
+  },
+  {
+    "Year":2021,
+    "County":"FRANKLIN",
+    "Value":190.9,
+    "CV (%)":4.5
+  },
+  {
+    "Year":2021,
+    "County":"GASCONADE",
+    "Value":137.9,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2021,
+    "County":"JEFFERSON",
+    "Value":145.2,
+    "CV (%)":8.3
+  },
+  {
+    "Year":2021,
+    "County":"LINCOLN",
+    "Value":146.7,
+    "CV (%)":6.3
+  },
+  {
+    "Year":2021,
+    "County":"MONTGOMERY",
+    "Value":122.9,
+    "CV (%)":5.0
+  },
+  {
+    "Year":2021,
+    "County":"PERRY",
+    "Value":177.4,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2021,
+    "County":"ST CHARLES",
+    "Value":182.9,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2021,
+    "County":"ST FRANCOIS",
+    "Value":164.0,
+    "CV (%)":10.3
+  },
+  {
+    "Year":2021,
+    "County":"ST LOUIS",
+    "Value":170.5,
+    "CV (%)":6.3
+  },
+  {
+    "Year":2021,
+    "County":"STE GENEVIEVE",
+    "Value":177.8,
+    "CV (%)":2.1
+  },
+  {
+    "Year":2021,
+    "County":"WARREN",
+    "Value":150.5,
+    "CV (%)":6.9
+  },
+  {
+    "Year":2021,
+    "County":"ADAIR",
+    "Value":169.5,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2021,
+    "County":"GRUNDY",
+    "Value":128.9,
+    "CV (%)":4.7
+  },
+  {
+    "Year":2021,
+    "County":"LINN",
+    "Value":126.9,
+    "CV (%)":9.7
+  },
+  {
+    "Year":2021,
+    "County":"RANDOLPH",
+    "Value":151.7,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2021,
+    "County":"MARION",
+    "Value":153.0,
+    "CV (%)":8.6
+  },
+  {
+    "Year":2021,
+    "County":"MONROE",
+    "Value":148.4,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2021,
+    "County":"RALLS",
+    "Value":147.5,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2021,
+    "County":"SHELBY",
+    "Value":154.9,
+    "CV (%)":4.5
+  },
+  {
+    "Year":2021,
+    "County":"ATCHISON",
+    "Value":211.0,
+    "CV (%)":2.0
+  },
+  {
+    "Year":2021,
+    "County":"BUCHANAN",
+    "Value":171.3,
+    "CV (%)":5.4
+  },
+  {
+    "Year":2021,
+    "County":"CALDWELL",
+    "Value":134.7,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2021,
+    "County":"CLAY",
+    "Value":154.2,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2021,
+    "County":"CLINTON",
+    "Value":169.2,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2021,
+    "County":"DAVIESS",
+    "Value":142.0,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2021,
+    "County":"DE KALB",
+    "Value":157.2,
+    "CV (%)":5.6
+  },
+  {
+    "Year":2021,
+    "County":"HARRISON",
+    "Value":155.9,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2021,
+    "County":"PLATTE",
+    "Value":178.8,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2021,
+    "County":"RAY",
+    "Value":151.5,
+    "CV (%)":4.3
+  },
+  {
+    "Year":2021,
+    "County":"WORTH",
+    "Value":173.6,
+    "CV (%)":5.1
+  },
+  {
+    "Year":2021,
+    "County":"BOLLINGER",
+    "Value":173.5,
+    "CV (%)":6.0
+  },
+  {
+    "Year":2021,
+    "County":"WEBSTER",
+    "Value":138.0,
+    "CV (%)":9.6
+  },
+  {
+    "Year":2021,
+    "County":"BUTLER",
+    "Value":192.1,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2021,
+    "County":"CAPE GIRARDEAU",
+    "Value":167.1,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2021,
+    "County":"DUNKLIN",
+    "Value":191.0,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2021,
+    "County":"MISSISSIPPI",
+    "Value":187.4,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2021,
+    "County":"NEW MADRID",
+    "Value":194.4,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2021,
+    "County":"PEMISCOT",
+    "Value":182.6,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2021,
+    "County":"SCOTT",
+    "Value":189.1,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2021,
+    "County":"STODDARD",
+    "Value":192.5,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2021,
+    "County":"BARRY",
+    "Value":146.1,
+    "CV (%)":7.1
+  },
+  {
+    "Year":2021,
+    "County":"BARTON",
+    "Value":179.0,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2021,
+    "County":"DADE",
+    "Value":138.7,
+    "CV (%)":6.6
+  },
+  {
+    "Year":2021,
+    "County":"GREENE",
+    "Value":139.9,
+    "CV (%)":5.3
+  },
+  {
+    "Year":2021,
+    "County":"LAWRENCE",
+    "Value":152.0,
+    "CV (%)":1.4
+  },
+  {
+    "Year":2021,
+    "County":"NEWTON",
+    "Value":153.7,
+    "CV (%)":5.0
+  },
+  {
+    "Year":2021,
+    "County":"BATES",
+    "Value":153.1,
+    "CV (%)":9.8
+  },
+  {
+    "Year":2021,
+    "County":"CASS",
+    "Value":109.3,
+    "CV (%)":8.0
+  },
+  {
+    "Year":2021,
+    "County":"CEDAR",
+    "Value":137.5,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2021,
+    "County":"HENRY",
+    "Value":111.4,
+    "CV (%)":9.6
+  },
+  {
+    "Year":2021,
+    "County":"JOHNSON",
+    "Value":128.8,
+    "CV (%)":7.0
+  },
+  {
+    "Year":2021,
+    "County":"ST CLAIR",
+    "Value":137.1,
+    "CV (%)":6.8
+  },
+  {
+    "Year":2020,
+    "County":"BENTON",
+    "Value":149.6,
+    "CV (%)":5.4
+  },
+  {
+    "Year":2020,
+    "County":"BOONE",
+    "Value":157.5,
+    "CV (%)":6.3
+  },
+  {
+    "Year":2020,
+    "County":"CALLAWAY",
+    "Value":149.0,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2020,
+    "County":"COLE",
+    "Value":150.8,
+    "CV (%)":7.2
+  },
+  {
+    "Year":2020,
+    "County":"COOPER",
+    "Value":163.8,
+    "CV (%)":4.2
+  },
+  {
+    "Year":2020,
+    "County":"DALLAS",
+    "Value":109.0,
+    "CV (%)":34.6
+  },
+  {
+    "Year":2020,
+    "County":"HICKORY",
+    "Value":93.5,
+    "CV (%)":12.3
+  },
+  {
+    "Year":2020,
+    "County":"HOWARD",
+    "Value":168.4,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2020,
+    "County":"LACLEDE",
+    "Value":159.9,
+    "CV (%)":10.9
+  },
+  {
+    "Year":2020,
+    "County":"MARIES",
+    "Value":132.3,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2020,
+    "County":"MILLER",
+    "Value":132.8,
+    "CV (%)":8.4
+  },
+  {
+    "Year":2020,
+    "County":"MONITEAU",
+    "Value":142.8,
+    "CV (%)":4.7
+  },
+  {
+    "Year":2020,
+    "County":"MORGAN",
+    "Value":144.3,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2020,
+    "County":"OSAGE",
+    "Value":157.6,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2020,
+    "County":"PETTIS",
+    "Value":151.4,
+    "CV (%)":5.2
+  },
+  {
+    "Year":2020,
+    "County":"POLK",
+    "Value":143.8,
+    "CV (%)":8.1
+  },
+  {
+    "Year":2020,
+    "County":"SALINE",
+    "Value":195.7,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2020,
+    "County":"FRANKLIN",
+    "Value":161.6,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2020,
+    "County":"GASCONADE",
+    "Value":149.2,
+    "CV (%)":7.3
+  },
+  {
+    "Year":2020,
+    "County":"JEFFERSON",
+    "Value":149.1,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2020,
+    "County":"LINCOLN",
+    "Value":162.4,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2020,
+    "County":"MONTGOMERY",
+    "Value":158.3,
+    "CV (%)":6.6
+  },
+  {
+    "Year":2020,
+    "County":"PERRY",
+    "Value":177.5,
+    "CV (%)":5.8
+  },
+  {
+    "Year":2020,
+    "County":"ST CHARLES",
+    "Value":183.9,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2020,
+    "County":"ST FRANCOIS",
+    "Value":179.4,
+    "CV (%)":9.8
+  },
+  {
+    "Year":2020,
+    "County":"ST LOUIS",
+    "Value":192.9,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2020,
+    "County":"STE GENEVIEVE",
+    "Value":161.2,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2020,
+    "County":"WARREN",
+    "Value":164.9,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2020,
+    "County":"ADAIR",
+    "Value":176.2,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2020,
+    "County":"CARROLL",
+    "Value":175.7,
+    "CV (%)":6.1
+  },
+  {
+    "Year":2020,
+    "County":"CHARITON",
+    "Value":173.9,
+    "CV (%)":2.3
+  },
+  {
+    "Year":2020,
+    "County":"GRUNDY",
+    "Value":158.5,
+    "CV (%)":2.3
+  },
+  {
+    "Year":2020,
+    "County":"LINN",
+    "Value":168.5,
+    "CV (%)":2.6
+  },
+  {
+    "Year":2020,
+    "County":"LIVINGSTON",
+    "Value":171.7,
+    "CV (%)":4.6
+  },
+  {
+    "Year":2020,
+    "County":"MACON",
+    "Value":163.1,
+    "CV (%)":4.2
+  },
+  {
+    "Year":2020,
+    "County":"MERCER",
+    "Value":152.9,
+    "CV (%)":4.1
+  },
+  {
+    "Year":2020,
+    "County":"RANDOLPH",
+    "Value":153.4,
+    "CV (%)":6.4
+  },
+  {
+    "Year":2020,
+    "County":"SULLIVAN",
+    "Value":150.2,
+    "CV (%)":5.5
+  },
+  {
+    "Year":2020,
+    "County":"AUDRAIN",
+    "Value":176.1,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2020,
+    "County":"CLARK",
+    "Value":173.5,
+    "CV (%)":6.8
+  },
+  {
+    "Year":2020,
+    "County":"KNOX",
+    "Value":167.8,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2020,
+    "County":"LEWIS",
+    "Value":167.1,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2020,
+    "County":"MARION",
+    "Value":169.8,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2020,
+    "County":"MONROE",
+    "Value":164.6,
+    "CV (%)":2.5
+  },
+  {
+    "Year":2020,
+    "County":"PIKE",
+    "Value":165.3,
+    "CV (%)":3.4
+  },
+  {
+    "Year":2020,
+    "County":"RALLS",
+    "Value":167.5,
+    "CV (%)":2.6
+  },
+  {
+    "Year":2020,
+    "County":"SCOTLAND",
+    "Value":153.5,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2020,
+    "County":"SHELBY",
+    "Value":172.3,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2020,
+    "County":"ANDREW",
+    "Value":173.6,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2020,
+    "County":"ATCHISON",
+    "Value":205.2,
+    "CV (%)":2.2
+  },
+  {
+    "Year":2020,
+    "County":"BUCHANAN",
+    "Value":181.8,
+    "CV (%)":3.0
+  },
+  {
+    "Year":2020,
+    "County":"CALDWELL",
+    "Value":164.0,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2020,
+    "County":"CLAY",
+    "Value":187.1,
+    "CV (%)":4.9
+  },
+  {
+    "Year":2020,
+    "County":"CLINTON",
+    "Value":182.7,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2020,
+    "County":"DAVIESS",
+    "Value":161.1,
+    "CV (%)":2.9
+  },
+  {
+    "Year":2020,
+    "County":"DE KALB",
+    "Value":173.2,
+    "CV (%)":4.8
+  },
+  {
+    "Year":2020,
+    "County":"GENTRY",
+    "Value":159.6,
+    "CV (%)":3.3
+  },
+  {
+    "Year":2020,
+    "County":"HARRISON",
+    "Value":164.7,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2020,
+    "County":"HOLT",
+    "Value":203.7,
+    "CV (%)":2.3
+  },
+  {
+    "Year":2020,
+    "County":"PLATTE",
+    "Value":185.9,
+    "CV (%)":6.2
+  },
+  {
+    "Year":2020,
+    "County":"RAY",
+    "Value":185.9,
+    "CV (%)":3.1
+  },
+  {
+    "Year":2020,
+    "County":"WORTH",
+    "Value":163.4,
+    "CV (%)":3.8
+  },
+  {
+    "Year":2020,
+    "County":"BOLLINGER",
+    "Value":179.3,
+    "CV (%)":7.7
+  },
+  {
+    "Year":2020,
+    "County":"TEXAS",
+    "Value":103.5,
+    "CV (%)":19.0
+  },
+  {
+    "Year":2020,
+    "County":"BUTLER",
+    "Value":173.1,
+    "CV (%)":3.7
+  },
+  {
+    "Year":2020,
+    "County":"CAPE GIRARDEAU",
+    "Value":174.0,
+    "CV (%)":4.7
+  },
+  {
+    "Year":2020,
+    "County":"DUNKLIN",
+    "Value":189.8,
+    "CV (%)":3.9
+  },
+  {
+    "Year":2020,
+    "County":"MISSISSIPPI",
+    "Value":183.8,
+    "CV (%)":2.0
+  },
+  {
+    "Year":2020,
+    "County":"NEW MADRID",
+    "Value":184.3,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2020,
+    "County":"PEMISCOT",
+    "Value":175.9,
+    "CV (%)":2.8
+  },
+  {
+    "Year":2020,
+    "County":"SCOTT",
+    "Value":182.6,
+    "CV (%)":2.4
+  },
+  {
+    "Year":2020,
+    "County":"STODDARD",
+    "Value":174.4,
+    "CV (%)":3.5
+  },
+  {
+    "Year":2020,
+    "County":"BARRY",
+    "Value":101.0,
+    "CV (%)":8.3
+  },
+  {
+    "Year":2020,
+    "County":"BARTON",
+    "Value":102.5,
+    "CV (%)":8.6
+  },
+  {
+    "Year":2020,
+    "County":"CHRISTIAN",
+    "Value":91.7,
+    "CV (%)":24.7
+  },
+  {
+    "Year":2020,
+    "County":"DADE",
+    "Value":103.2,
+    "CV (%)":8.3
+  },
+  {
+    "Year":2020,
+    "County":"GREENE",
+    "Value":88.6,
+    "CV (%)":11.6
+  },
+  {
+    "Year":2020,
+    "County":"JASPER",
+    "Value":106.3,
+    "CV (%)":4.4
+  },
+  {
+    "Year":2020,
+    "County":"LAWRENCE",
+    "Value":99.4,
+    "CV (%)":17.9
+  },
+  {
+    "Year":2020,
+    "County":"NEWTON",
+    "Value":102.1,
+    "CV (%)":9.6
+  },
+  {
+    "Year":2020,
+    "County":"BATES",
+    "Value":154.6,
+    "CV (%)":2.3
+  },
+  {
+    "Year":2020,
+    "County":"CASS",
+    "Value":152.7,
+    "CV (%)":7.9
+  },
+  {
+    "Year":2020,
+    "County":"CEDAR",
+    "Value":140.0,
+    "CV (%)":10.2
+  },
+  {
+    "Year":2020,
+    "County":"HENRY",
+    "Value":146.1,
+    "CV (%)":3.6
+  },
+  {
+    "Year":2020,
+    "County":"JACKSON",
+    "Value":174.6,
+    "CV (%)":6.7
+  },
+  {
+    "Year":2020,
+    "County":"JOHNSON",
+    "Value":150.8,
+    "CV (%)":6.4
+  },
+  {
+    "Year":2020,
+    "County":"LAFAYETTE",
+    "Value":197.9,
+    "CV (%)":2.7
+  },
+  {
+    "Year":2020,
+    "County":"ST CLAIR",
+    "Value":117.0,
+    "CV (%)":9.6
+  },
+  {
+    "Year":2020,
+    "County":"VERNON",
+    "Value":109.6,
+    "CV (%)":8.2
+  },
+  {
+    "Year":2019,
+    "County":"BOONE",
+    "Value":168.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"DALLAS",
+    "Value":114.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"LACLEDE",
+    "Value":136.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MARIES",
+    "Value":124.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MILLER",
+    "Value":148.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MONITEAU",
+    "Value":144.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MORGAN",
+    "Value":151.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"OSAGE",
+    "Value":132.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"POLK",
+    "Value":162.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"SALINE",
+    "Value":192.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"FRANKLIN",
+    "Value":155.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"GASCONADE",
+    "Value":137.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"JEFFERSON",
+    "Value":132.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"ST CHARLES",
+    "Value":174.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"STE GENEVIEVE",
+    "Value":151.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"WARREN",
+    "Value":150.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"ADAIR",
+    "Value":134.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"CARROLL",
+    "Value":145.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"LIVINGSTON",
+    "Value":126.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"RANDOLPH",
+    "Value":158.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"SULLIVAN",
+    "Value":123.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"AUDRAIN",
+    "Value":168.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MARION",
+    "Value":164.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"RALLS",
+    "Value":157.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"CLINTON",
+    "Value":139.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"DE KALB",
+    "Value":126.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"GENTRY",
+    "Value":126.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"PLATTE",
+    "Value":146.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"RAY",
+    "Value":150.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"BOLLINGER",
+    "Value":157.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"TEXAS",
+    "Value":126.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"WEBSTER",
+    "Value":160.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"BUTLER",
+    "Value":161.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"DUNKLIN",
+    "Value":180.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"MISSISSIPPI",
+    "Value":152.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"NEW MADRID",
+    "Value":172.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"SCOTT",
+    "Value":174.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"STODDARD",
+    "Value":170.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"BARRY",
+    "Value":148.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"BARTON",
+    "Value":141.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"DADE",
+    "Value":122.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"NEWTON",
+    "Value":150.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"BATES",
+    "Value":160.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"CEDAR",
+    "Value":131.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"JACKSON",
+    "Value":158.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"LAFAYETTE",
+    "Value":185.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2019,
+    "County":"ST CLAIR",
+    "Value":136.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"BENTON",
+    "Value":170.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"COLE",
+    "Value":157.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"HICKORY",
+    "Value":136.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"LACLEDE",
+    "Value":132.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MILLER",
+    "Value":121.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MONITEAU",
+    "Value":144.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MORGAN",
+    "Value":136.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"OSAGE",
+    "Value":158.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"PETTIS",
+    "Value":159.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"POLK",
+    "Value":112.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"SALINE",
+    "Value":147.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"FRANKLIN",
+    "Value":139.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"GASCONADE",
+    "Value":145.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"JEFFERSON",
+    "Value":130.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MONTGOMERY",
+    "Value":126.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"PERRY",
+    "Value":152.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"ST CHARLES",
+    "Value":161.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"STE GENEVIEVE",
+    "Value":172.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"GRUNDY",
+    "Value":110.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"RANDOLPH",
+    "Value":126.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"AUDRAIN",
+    "Value":131.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"KNOX",
+    "Value":125.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"LEWIS",
+    "Value":117.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MONROE",
+    "Value":124.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"PIKE",
+    "Value":139.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"RALLS",
+    "Value":148.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"ATCHISON",
+    "Value":170.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"CLINTON",
+    "Value":107.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"DAVIESS",
+    "Value":93.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"DE KALB",
+    "Value":95.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"NODAWAY",
+    "Value":124.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"PLATTE",
+    "Value":159.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"WORTH",
+    "Value":105.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"WEBSTER",
+    "Value":72.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"DUNKLIN",
+    "Value":173.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"MISSISSIPPI",
+    "Value":179.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"PEMISCOT",
+    "Value":175.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"STODDARD",
+    "Value":172.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"BARRY",
+    "Value":76.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"BARTON",
+    "Value":116.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"CHRISTIAN",
+    "Value":75.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"DADE",
+    "Value":94.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"GREENE",
+    "Value":66.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"NEWTON",
+    "Value":77.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"BATES",
+    "Value":159.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"CEDAR",
+    "Value":109.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"HENRY",
+    "Value":159.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"JACKSON",
+    "Value":146.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"JOHNSON",
+    "Value":170.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2018,
+    "County":"LAFAYETTE",
+    "Value":173.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BOONE",
+    "Value":170.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CALLAWAY",
+    "Value":180.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"COLE",
+    "Value":177.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"COOPER",
+    "Value":184.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"DALLAS",
+    "Value":90.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"HICKORY",
+    "Value":112.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MARIES",
+    "Value":131.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MILLER",
+    "Value":155.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MONITEAU",
+    "Value":155.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MORGAN",
+    "Value":155.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"OSAGE",
+    "Value":167.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"PETTIS",
+    "Value":182.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"POLK",
+    "Value":122.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"SALINE",
+    "Value":198.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"GASCONADE",
+    "Value":149.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"JEFFERSON",
+    "Value":108.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"LINCOLN",
+    "Value":142.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MONTGOMERY",
+    "Value":167.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"PERRY",
+    "Value":137.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"ST CHARLES",
+    "Value":155.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"ST FRANCOIS",
+    "Value":155.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"ST LOUIS",
+    "Value":146.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"STE GENEVIEVE",
+    "Value":135.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"WARREN",
+    "Value":160.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CARROLL",
+    "Value":179.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CHARITON",
+    "Value":178.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"LIVINGSTON",
+    "Value":177.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MERCER",
+    "Value":149.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"RANDOLPH",
+    "Value":164.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"AUDRAIN",
+    "Value":178.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"KNOX",
+    "Value":165.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"LEWIS",
+    "Value":158.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MARION",
+    "Value":160.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MONROE",
+    "Value":144.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"PIKE",
+    "Value":171.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"RALLS",
+    "Value":160.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"SCOTLAND",
+    "Value":147.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"ANDREW",
+    "Value":161.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"ATCHISON",
+    "Value":184.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BUCHANAN",
+    "Value":178.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CALDWELL",
+    "Value":162.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CLAY",
+    "Value":171.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CLINTON",
+    "Value":177.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"DAVIESS",
+    "Value":142.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"DE KALB",
+    "Value":159.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"GENTRY",
+    "Value":150.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"HARRISON",
+    "Value":147.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"HOLT",
+    "Value":203.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"NODAWAY",
+    "Value":180.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"PLATTE",
+    "Value":172.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"RAY",
+    "Value":179.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"WORTH",
+    "Value":144.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BOLLINGER",
+    "Value":164.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"WAYNE",
+    "Value":133.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"WEBSTER",
+    "Value":123.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CAPE GIRARDEAU",
+    "Value":151.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"DUNKLIN",
+    "Value":189.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"MISSISSIPPI",
+    "Value":183.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"NEW MADRID",
+    "Value":194.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"SCOTT",
+    "Value":185.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"STODDARD",
+    "Value":169.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BARRY",
+    "Value":146.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BARTON",
+    "Value":155.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"DADE",
+    "Value":123.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"GREENE",
+    "Value":150.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"JASPER",
+    "Value":152.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"LAWRENCE",
+    "Value":118.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"NEWTON",
+    "Value":154.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"BATES",
+    "Value":167.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CASS",
+    "Value":160.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"CEDAR",
+    "Value":171.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"HENRY",
+    "Value":161.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"JACKSON",
+    "Value":192.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"JOHNSON",
+    "Value":173.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2017,
+    "County":"LAFAYETTE",
+    "Value":205.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"BENTON",
+    "Value":166.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"COLE",
+    "Value":152.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"COOPER",
+    "Value":173.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LACLEDE",
+    "Value":158.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MARIES",
+    "Value":141.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MILLER",
+    "Value":130.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MORGAN",
+    "Value":155.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"OSAGE",
+    "Value":184.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"PETTIS",
+    "Value":166.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"POLK",
+    "Value":163.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"SALINE",
+    "Value":185.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"GASCONADE",
+    "Value":126.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"JEFFERSON",
+    "Value":128.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LINCOLN",
+    "Value":155.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ST CHARLES",
+    "Value":169.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ST FRANCOIS",
+    "Value":142.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ST LOUIS",
+    "Value":154.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"STE GENEVIEVE",
+    "Value":149.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"WARREN",
+    "Value":154.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ADAIR",
+    "Value":170.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CARROLL",
+    "Value":161.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LINN",
+    "Value":160.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LIVINGSTON",
+    "Value":167.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"RANDOLPH",
+    "Value":176.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"AUDRAIN",
+    "Value":171.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"KNOX",
+    "Value":166.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LEWIS",
+    "Value":163.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MARION",
+    "Value":188.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MONROE",
+    "Value":164.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"PIKE",
+    "Value":163.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"RALLS",
+    "Value":174.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"SHELBY",
+    "Value":175.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ANDREW",
+    "Value":152.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"ATCHISON",
+    "Value":169.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"BUCHANAN",
+    "Value":158.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CALDWELL",
+    "Value":179.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CLAY",
+    "Value":165.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CLINTON",
+    "Value":156.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"DAVIESS",
+    "Value":161.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"HOLT",
+    "Value":170.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"NODAWAY",
+    "Value":167.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"PLATTE",
+    "Value":160.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"WORTH",
+    "Value":159.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MADISON",
+    "Value":105.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"WEBSTER",
+    "Value":157.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CAPE GIRARDEAU",
+    "Value":128.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"DUNKLIN",
+    "Value":153.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"MISSISSIPPI",
+    "Value":143.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"NEW MADRID",
+    "Value":168.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"PEMISCOT",
+    "Value":159.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"STODDARD",
+    "Value":147.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"BARTON",
+    "Value":155.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CHRISTIAN",
+    "Value":120.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"DADE",
+    "Value":136.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"GREENE",
+    "Value":144.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LAWRENCE",
+    "Value":121.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"NEWTON",
+    "Value":144.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"CASS",
+    "Value":159.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"HENRY",
+    "Value":148.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"JACKSON",
+    "Value":161.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"JOHNSON",
+    "Value":160.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"LAFAYETTE",
+    "Value":186.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2016,
+    "County":"VERNON",
+    "Value":147.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"BOONE",
+    "Value":125.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"COLE",
+    "Value":123.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"LACLEDE",
+    "Value":100.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"MILLER",
+    "Value":95.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"MORGAN",
+    "Value":136.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"OSAGE",
+    "Value":135.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"PETTIS",
+    "Value":107.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"POLK",
+    "Value":112.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"SALINE",
+    "Value":163.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"FRANKLIN",
+    "Value":138.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"GASCONADE",
+    "Value":87.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"JEFFERSON",
+    "Value":135.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"PERRY",
+    "Value":160.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"ST CHARLES",
+    "Value":142.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"ST FRANCOIS",
+    "Value":140.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"ST LOUIS",
+    "Value":150.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"STE GENEVIEVE",
+    "Value":147.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"ADAIR",
+    "Value":128.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CARROLL",
+    "Value":132.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CHARITON",
+    "Value":139.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"LIVINGSTON",
+    "Value":140.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"PUTNAM",
+    "Value":141.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"RANDOLPH",
+    "Value":148.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"SULLIVAN",
+    "Value":120.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"AUDRAIN",
+    "Value":109.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"LEWIS",
+    "Value":118.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"MONROE",
+    "Value":140.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"PIKE",
+    "Value":96.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"RALLS",
+    "Value":111.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"BUCHANAN",
+    "Value":141.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CALDWELL",
+    "Value":132.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CLAY",
+    "Value":122.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CLINTON",
+    "Value":127.1,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"NODAWAY",
+    "Value":137.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"PLATTE",
+    "Value":135.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"WORTH",
+    "Value":126.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"BOLLINGER",
+    "Value":146.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"WAYNE",
+    "Value":120.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"WEBSTER",
+    "Value":106.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CAPE GIRARDEAU",
+    "Value":158.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"DUNKLIN",
+    "Value":179.0,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"MISSISSIPPI",
+    "Value":194.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"SCOTT",
+    "Value":177.3,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"BARRY",
+    "Value":140.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"BARTON",
+    "Value":148.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"DADE",
+    "Value":118.5,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"GREENE",
+    "Value":138.6,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"JASPER",
+    "Value":130.8,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"LAWRENCE",
+    "Value":142.9,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CASS",
+    "Value":140.7,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"CEDAR",
+    "Value":98.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"JOHNSON",
+    "Value":138.2,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"LAFAYETTE",
+    "Value":156.4,
+    "CV (%)":null
+  },
+  {
+    "Year":2015,
+    "County":"VERNON",
+    "Value":122.5,
+    "CV (%)":null
+  }
+]
