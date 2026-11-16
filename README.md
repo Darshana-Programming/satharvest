@@ -16,6 +16,7 @@ SatHarvest is a project that connects historical NASA POWER weather observations
 - NASA POWER: Daily meteorological observations retrieved through the NASA POWER API.
 - USDA agricultural data: Missouri county-level corn yield records, expressed in bushels per acre.
 The project covers 2015–2025. The prepared dashboard datasets previously verified in the project contained 681 corn-yield observations, 1,067 county-year weather-feature records, and 389,746 daily weather records. All 681 yield observations had a matching county-year weather-feature record. These counts describe the prepared datasets, not necessarily every raw file.
+
 Workflow
 County coordinates ──> NASA POWER daily weather
                               │
@@ -29,16 +30,20 @@ USDA county corn yields ──────┤
                ┌──────────────┴──────────────┐
                ▼                             ▼
         Historical dashboard         Machine-learning evaluation
+
 Growing-season features
 The feature-engineering code uses April–September and divides the season into:
-Period	Months
-Early	April–May
-Mid	June–July
-Late	August–September
+Period  	Months
+Early	    April–May
+Mid	      June–July
+Late	    August–September
 
-Derived variables include average and maximum/minimum temperature, total and maximum daily precipitation, humidity, wind, solar radiation, hot-day counts, rainy and heavy-rain days, dry-day counts, and longest dry spells. In the enhanced feature script, hot-day thresholds are 30°C, 32°C, and 35°C; a rainy day is at least 1 mm of precipitation, and a heavy-rain day is at least 25 mm.
+Derived variables include average and maximum/minimum temperature, total and maximum daily precipitation, humidity, wind, solar radiation, hot-day counts, rainy and heavy-rain days, dry-day counts, and longest dry spells. 
+In the enhanced feature script, hot-day thresholds are 30°C, 32°C, and 35°C; a rainy day is at least 1 mm of precipitation, and a heavy-rain day is at least 25 mm.
+
 **Python scripts (src/)**
 **Script	Role**
+
 get_county_coordinates.py: 	                  Extracts Missouri county coordinate information.
 check_county_coordinates.py: 	                Checks coverage of county coordinates.
 check_county_matching.py: 	                  Compares county names across source datasets.
