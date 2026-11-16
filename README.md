@@ -31,9 +31,9 @@ USDA county corn yields ──────┤
                ▼                             ▼
         Historical dashboard         Machine-learning evaluation
 </pre>
-Growing-season features
+**Growing-season features**
 The feature-engineering code uses April–September and divides the season into:
-Period  	Months
+**Period  	Months**
 Early	    April–May
 Mid	      June–July
 Late	    August–September
@@ -77,17 +77,16 @@ test_nasa_county_weather.csv:        	  Data from initial county API tests.<BR>
 
 **Prepared datasets
 File	                                                  Purpose**
-missouri_county_weather_features_2015_2025.csv       	Basic county-year weather features. <BR>
+missouri_county_weather_features_2015_2025.csv        	Basic county-year weather features. <BR>
 missouri_county_weather_enhanced_features_2015_2025.csv	Enhanced seasonal and extreme-weather features.<BR>
-missouri_corn_weather_ml.csv	Combined weather and yield data.<BR>
+missouri_corn_weather_ml.csv	                          Combined weather and yield data.<BR>
 missouri_corn_weather_basic_ml.csv	Basic-feature modeling dataset.<BR>
 missouri_corn_weather_enhanced_ml.csv	Enhanced-feature modeling dataset.<BR>
 missouri_corn_weather_enhanced_selected_ml.csv	Selected enhanced-feature dataset.<BR>
 missouri_corn_weather_all_features_ml.csv	Combined feature dataset.<BR>
 missouri_corn_weather_selected_ml.csv	Selected-feature modeling dataset.<BR>
 
-
-Analysis and evaluation outputs
+**Analysis and evaluation outputs**
 File	Purpose
 enhanced_feature_yield_correlations.csv	Feature–yield correlations.<BR>
 highly_correlated_feature_pairs.csv	Highly correlated feature pairs.<BR>
@@ -99,8 +98,8 @@ rolling_model_summary.csv	Aggregate rolling evaluation metrics.<BR>
 rolling_selected_features.csv	Selected features for rolling splits.<BR>
 
 
-File availability may differ in the cleaned GitHub repository; the tables document the original analysis workflow.<BR>
-Machine-learning evaluation
+
+**Machine-learning evaluation**
 The rolling evaluation in src/train_rolling_models.py uses expanding historical training windows:<BR>
 Training years	Test year<BR>
 2015–2019	2020<BR>
@@ -111,7 +110,8 @@ Training years	Test year<BR>
 2015–2024	2025<BR>
 
 
-It compares Linear Regression, Random Forest, and Gradient Boosting. Enhanced-feature selection is performed using training data only within each split.<BR>
+It compares Linear Regression, Random Forest, and Gradient Boosting.
+Enhanced-feature selection is performed using training data only within each split.<BR>
 Results: mean MAE across rolling test years<BR>
 Model	Basic features	Enhanced features<BR>
 Linear Regression	29.15	27.98<BR>
@@ -120,9 +120,10 @@ Gradient Boosting	26.21	21.94<BR>
 
 
 MAE is in bushels per acre; lower is better. Values come from data/rolling_model_summary.csv in the original project archive.<BR>
-
 Enhanced features reduced mean MAE for all three algorithms in these experiments. Enhanced Gradient Boosting had the lowest mean MAE, but its mean R² was approximately −0.073, so the evaluation does not demonstrate reliable future-year forecasting.<BR>
+
 Interactive dashboard<BR>
+
 The Next.js dashboard is designed for historical data exploration. Its developed views include:<BR>
 - County selection and historical corn-yield trends.<BR>
 - Annual and growing-season weather indicators.<BR>
@@ -148,18 +149,20 @@ cd satharvest
 python src/train_rolling_models.py
 The command above is an example for a repository containing the nested satharvest/ Python folder and the required input CSV files. It reruns the rolling evaluation and updates its output CSV files.
 
-To run the frontend from the repository root:
+**To run the frontend from the repository root:**
 cd my-app
 npm install
 npm run dev
 Open the forwarded development URL in Codespaces. The dashboard also requires its prepared JSON files under my-app/public/data/.
-Limitations
+
+**Limitations**
 - Historical associations do not establish causation.
 - The dataset does not represent every factor affecting corn yields.
 - Model errors vary by evaluation year.
 - The machine-learning results are experimental, not operational forecasts.
 - Weather observations for future growing seasons are not supplied by the historical datasets.
-Conclusion
+
+**Conclusion**
 SatHarvest demonstrates a workflow for connecting NASA POWER weather observations with Missouri agricultural records. Its data processing, seasonal feature engineering, exploratory analysis, rolling model evaluation, and dashboard provide a foundation for studying historical weather–yield relationships.
 
 Developed for the NASA Space Apps Challenge.
