@@ -16,7 +16,7 @@ SatHarvest is a project that connects historical NASA POWER weather observations
 - NASA POWER: Daily meteorological observations retrieved through the NASA POWER API.
 - USDA agricultural data: Missouri county-level corn yield records, expressed in bushels per acre.
 The project covers 2015–2025. The prepared dashboard datasets previously verified in the project contained 681 corn-yield observations, 1,067 county-year weather-feature records, and 389,746 daily weather records. All 681 yield observations had a matching county-year weather-feature record. These counts describe the prepared datasets, not necessarily every raw file.
-
+  <pre>
 Workflow
 County coordinates ──> NASA POWER daily weather
                               │
@@ -30,7 +30,7 @@ USDA county corn yields ──────┤
                ┌──────────────┴──────────────┐
                ▼                             ▼
         Historical dashboard         Machine-learning evaluation
-
+</pre>
 Growing-season features
 The feature-engineering code uses April–September and divides the season into:
 Period  	Months
@@ -44,104 +44,104 @@ In the enhanced feature script, hot-day thresholds are 30°C, 32°C, and 35°C; 
 **Python scripts (src/)**
 **Script	Role**
 
-get_county_coordinates.py: 	                  Extracts Missouri county coordinate information.
-check_county_coordinates.py: 	                Checks coverage of county coordinates.
-check_county_matching.py: 	                  Compares county names across source datasets.
-create_final_county_coordinates.py: 	        Prepares coordinates used for county weather collection.
-collect_county_weather.py: 	                  Requests daily NASA POWER observations for the selected county coordinates.
-test_nasa_county_weather.py: 	                Tests county-level weather requests.
-check_weather_data.py: 	                      Checks the downloaded weather data.
-inspect_usda_corn.py: 	                      Inspects the corn yield records.
-create_weather_features.py: 	                Aggregates daily weather into basic county-year features.
-create_enhanced_weather_features.py: 	        Produces enhanced and seasonal weather indicators.
-merge_weather_yield.py:	                      Joins basic weather features with yield data.
-merge_enhanced_weather_yield.py:	            Joins enhanced weather features with yield data.
-explore_data.py: 	                            Explores the combined datasets.
-analyze_enhanced_features.py: 	              Examines feature–yield correlations and feature relationships.
-select_enhanced_features.py: 	                Supports weather-feature selection.
-create_research_feature_sets.py: 	            Prepares alternative feature sets for experiments.
-train_baseline_models.py: 	                  Evaluates models using basic features.
-train_enhanced_models.py: 	                  Evaluates models using enhanced features.
-train_rolling_models.py: 	                    Runs time-based rolling evaluations of basic and enhanced feature sets.
+get_county_coordinates.py: 	                  Extracts Missouri county coordinate information.<BR>
+check_county_coordinates.py: 	                Checks coverage of county coordinates.<BR>
+check_county_matching.py: 	                  Compares county names across source datasets.<BR>
+create_final_county_coordinates.py: 	        Prepares coordinates used for county weather collection.<BR>
+collect_county_weather.py: 	                  Requests daily NASA POWER observations for the selected county coordinates.<BR>
+test_nasa_county_weather.py: 	                Tests county-level weather requests.<BR>
+check_weather_data.py: 	                      Checks the downloaded weather data.<BR>
+inspect_usda_corn.py: 	                      Inspects the corn yield records.<BR>
+create_weather_features.py: 	                Aggregates daily weather into basic county-year features.<BR>
+create_enhanced_weather_features.py: 	        Produces enhanced and seasonal weather indicators.<BR>
+merge_weather_yield.py:	                      Joins basic weather features with yield data.<BR>
+merge_enhanced_weather_yield.py:	            Joins enhanced weather features with yield data.<BR>
+explore_data.py: 	                            Explores the combined datasets.<BR>
+analyze_enhanced_features.py: 	              Examines feature–yield correlations and feature relationships.<BR>
+select_enhanced_features.py: 	                Supports weather-feature selection.<BR>
+create_research_feature_sets.py: 	            Prepares alternative feature sets for experiments.<BR>
+train_baseline_models.py: 	                  Evaluates models using basic features.<BR>
+train_enhanced_models.py: 	                  Evaluates models using enhanced features.<BR>
+train_rolling_models.py: 	                    Runs time-based rolling evaluations of basic and enhanced feature sets.<BR>
 
 **Data files (data/)
 Source and collected data
 File	                                   Purpose**
-missouri_corn_yield_2015_2025.csv: 	    County-level corn yield observations.
-corn_row_data.csv	:                     Retained corn-related source data.
-missouri_county_coordinates.csv:  	    County coordinate data.
-missouri_corn_county_coordinates.csv:	  Coordinates used for corn-county weather collection.
-missouri_county_weather_2015_2025.csv:	Collected daily NASA POWER weather observations.
-test_nasa_county_weather.csv:        	  Data from initial county API tests.
+missouri_corn_yield_2015_2025.csv: 	    County-level corn yield observations.<BR>
+corn_row_data.csv	:                     Retained corn-related source data.<BR>
+missouri_county_coordinates.csv:  	    County coordinate data.<BR>
+missouri_corn_county_coordinates.csv:	  Coordinates used for corn-county weather collection.<BR>
+missouri_county_weather_2015_2025.csv:	Collected daily NASA POWER weather observations.<BR>
+test_nasa_county_weather.csv:        	  Data from initial county API tests.<BR>
 
 
 **Prepared datasets
 File	                                                  Purpose**
-missouri_county_weather_features_2015_2025.csv       	Basic county-year weather features.
-missouri_county_weather_enhanced_features_2015_2025.csv	Enhanced seasonal and extreme-weather features.
-missouri_corn_weather_ml.csv	Combined weather and yield data.
-missouri_corn_weather_basic_ml.csv	Basic-feature modeling dataset.
-missouri_corn_weather_enhanced_ml.csv	Enhanced-feature modeling dataset.
-missouri_corn_weather_enhanced_selected_ml.csv	Selected enhanced-feature dataset.
-missouri_corn_weather_all_features_ml.csv	Combined feature dataset.
-missouri_corn_weather_selected_ml.csv	Selected-feature modeling dataset.
+missouri_county_weather_features_2015_2025.csv       	Basic county-year weather features. <BR>
+missouri_county_weather_enhanced_features_2015_2025.csv	Enhanced seasonal and extreme-weather features.<BR>
+missouri_corn_weather_ml.csv	Combined weather and yield data.<BR>
+missouri_corn_weather_basic_ml.csv	Basic-feature modeling dataset.<BR>
+missouri_corn_weather_enhanced_ml.csv	Enhanced-feature modeling dataset.<BR>
+missouri_corn_weather_enhanced_selected_ml.csv	Selected enhanced-feature dataset.<BR>
+missouri_corn_weather_all_features_ml.csv	Combined feature dataset.<BR>
+missouri_corn_weather_selected_ml.csv	Selected-feature modeling dataset.<BR>
 
 
 Analysis and evaluation outputs
 File	Purpose
-enhanced_feature_yield_correlations.csv	Feature–yield correlations.
-highly_correlated_feature_pairs.csv	Highly correlated feature pairs.
-feature_selection_report.csv	Feature selection results.
-baseline_model_results.csv	Basic-model experiment results.
-enhanced_model_results.csv	Enhanced-model experiment results.
-rolling_model_results.csv	Results for individual rolling test years.
-rolling_model_summary.csv	Aggregate rolling evaluation metrics.
-rolling_selected_features.csv	Selected features for rolling splits.
+enhanced_feature_yield_correlations.csv	Feature–yield correlations.<BR>
+highly_correlated_feature_pairs.csv	Highly correlated feature pairs.<BR>
+feature_selection_report.csv	Feature selection results.<BR>
+baseline_model_results.csv	Basic-model experiment results.<BR>
+enhanced_model_results.csv	Enhanced-model experiment results.<BR>
+rolling_model_results.csv	Results for individual rolling test years.<BR>
+rolling_model_summary.csv	Aggregate rolling evaluation metrics.<BR>
+rolling_selected_features.csv	Selected features for rolling splits.<BR>
 
 
-File availability may differ in the cleaned GitHub repository; the tables document the original analysis workflow.
+File availability may differ in the cleaned GitHub repository; the tables document the original analysis workflow.<BR>
 Machine-learning evaluation
-The rolling evaluation in src/train_rolling_models.py uses expanding historical training windows:
-Training years	Test year
-2015–2019	2020
-2015–2020	2021
-2015–2021	2022
-2015–2022	2023
-2015–2023	2024
-2015–2024	2025
+The rolling evaluation in src/train_rolling_models.py uses expanding historical training windows:<BR>
+Training years	Test year<BR>
+2015–2019	2020<BR>
+2015–2020	2021<BR>
+2015–2021	2022<BR>
+2015–2022	2023<BR>
+2015–2023	2024<BR>
+2015–2024	2025<BR>
 
 
-It compares Linear Regression, Random Forest, and Gradient Boosting. Enhanced-feature selection is performed using training data only within each split.
-Results: mean MAE across rolling test years
-Model	Basic features	Enhanced features
-Linear Regression	29.15	27.98
-Random Forest	26.81	22.57
-Gradient Boosting	26.21	21.94
+It compares Linear Regression, Random Forest, and Gradient Boosting. Enhanced-feature selection is performed using training data only within each split.<BR>
+Results: mean MAE across rolling test years<BR>
+Model	Basic features	Enhanced features<BR>
+Linear Regression	29.15	27.98<BR>
+Random Forest	26.81	22.57<BR>
+Gradient Boosting	26.21	21.94<BR>
 
 
-MAE is in bushels per acre; lower is better. Values come from data/rolling_model_summary.csv in the original project archive.
+MAE is in bushels per acre; lower is better. Values come from data/rolling_model_summary.csv in the original project archive.<BR>
 
-Enhanced features reduced mean MAE for all three algorithms in these experiments. Enhanced Gradient Boosting had the lowest mean MAE, but its mean R² was approximately −0.073, so the evaluation does not demonstrate reliable future-year forecasting.
-Interactive dashboard
-The Next.js dashboard is designed for historical data exploration. Its developed views include:
-- County selection and historical corn-yield trends.
-- Annual and growing-season weather indicators.
-- Weather-versus-yield scatter plots and correlation displays.
-- Historical yield and weather tables.
-The dashboard uses prepared JSON exports of the analysis datasets. The latest frontend source was developed in GitHub Codespaces and was not part of the original Python archive used to verify the backend details above.
-Dashboard screenshots
-Add screenshots from the running SatHarvest application here.
+Enhanced features reduced mean MAE for all three algorithms in these experiments. Enhanced Gradient Boosting had the lowest mean MAE, but its mean R² was approximately −0.073, so the evaluation does not demonstrate reliable future-year forecasting.<BR>
+Interactive dashboard<BR>
+The Next.js dashboard is designed for historical data exploration. Its developed views include:<BR>
+- County selection and historical corn-yield trends.<BR>
+- Annual and growing-season weather indicators.<BR>
+- Weather-versus-yield scatter plots and correlation displays.<BR>
+- Historical yield and weather tables.<BR>
+The dashboard uses prepared JSON exports of the analysis datasets. The latest frontend source was developed in GitHub Codespaces and was not part of the original Python archive used to verify the backend details above.<BR>
+Dashboard screenshots<BR>
+Add screenshots from the running SatHarvest application here.<BR>
 
-Dashboard overview
+Dashboard overview<BR>
 <!-- Insert screenshot here, for example: ![SatHarvest dashboard](docs/images/dashboard-overview.png) -->
-Historical corn yield and weather indicators
+Historical corn yield and weather indicators<BR>
 <!-- Insert screenshot here -->
-Weather-versus-yield comparison
+Weather-versus-yield comparison<BR>
 <!-- Insert screenshot here -->Technologies
-- Python: Pandas, NumPy, Requests, scikit-learn
-- Data: NASA POWER API, USDA county corn yield records, CSV and JSON
-- Frontend: Next.js, React, Tailwind CSS
-- Development: GitHub, GitHub Codespaces
+- Python: Pandas, NumPy, Requests, scikit-learn<BR>
+- Data: NASA POWER API, USDA county corn yield records, CSV and JSON<BR>
+- Frontend: Next.js, React, Tailwind CSS<BR>
+- Development: GitHub, GitHub Codespaces<BR>
 Running the project
 The Python scripts generally expect to run from the Python project root because several input and output paths begin with data/.
 cd satharvest
